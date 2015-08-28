@@ -1,0 +1,41 @@
+.match_container .match-title h1{font-size:36px;color:#0F5396;margin-left:10px}
+.match_container .search_title{color:#000000;margin-bottom:8px}
+.search_match_options {background:#f7f7f7;padding: 10px;margin-bottom:10px}
+.search_match_options .myselect{float:left}
+.search_match_options div.selector{background:url("images/select_arrow.png") no-repeat scroll 95% 12px #E0E0E0;font-size: 14px;font-weight: bold;
+    height: 25px;width: 146px !important;margin-right:2px}
+.search_match_options .search_btn{float:left;background:url('images/btn.png');color: #000;font-size: 14px;font-weight: bold;padding:5px 30px 5px 25px;position:relative}
+.search_match_options .search_btn:after{background:url("images/btn_arrow.png");content: "";height: 11px;position: absolute;right: 20px;top: 9px;width: 6px;}
+.match_wrap_table th{font-size:14px;font-weight:bold;background:url("images/btn.png");text-align:center;padding:5px 0!important;border-right:2px solid #fff;border-bottom:2px solid #000}
+.match_wrap_table td{font-size:11px;text-align:center;border:2px solid #fff;padding:4px 0;color:#000}  
+.match_wrap_table tr.started{background:#1473C1 !important}
+.match_wrap_table tr:nth-child(odd){background:#F7F7F7}
+.match_wrap_table tr:nth-child(even){background:#E0E0E0}
+.match_wrap_table .game_list img{width:50px;height:20px;margin-right:8px}
+.match_wrap_table .team_list img{width:20px;height:20px;margin-right:10px}
+.match_wrap_table .team_list img:nth-child(2){margin-right:0;margin-left:10px}
+.match_wrap_table .game_list{min-width:95px}
+.match_wrap_table .team_list{min-width:135px;word-spacing:5px}
+.match_wrap_table .tournament_list{min-width:95px}
+.match_wrap_table .cnt_list{min-width:84px}
+.match_wrap_table .matchlink_list{min-width:120px}
+.match_wrap_table img{ max-height:20px;}
+ .match_container .search_match_options input[type="submit"],
+ 
+ .match_container .search_match_options input[type="button"]
+ {background:url("images/btn.png") repeat scroll 0 0 rgba(0, 0, 0, 0);padding:5px 30px 6px}
+ 
+ 
+ *login page registration*/
+.page .entry-title{color: #0f5295;font-size: 36px;font-weight: bold;}
+.gm_loginform > a{text-decoration:underline}
+.gm_loginform > a{color: #000;font-size: 18px;text-decoration: none;line-height:40px;margin-bottom:}
+.gm_loginform > form#loginform{margin-top:30px}
+#loginform p{margin-bottom:10px}
+#loginform input,#game_register input,#game_register  select options,#game_register .selector span{font-size:12px}
+#loginform input[type="submit"],#game_register input[type="submit"]{background:url("images/login_btn.png")}
+#loginform label,#game_register label{font-size:14px;font-weight:bold;display:block}
+#loginform  input[type="text"],#loginform  input[type="password"],#game_register  input[type="text"],#game_register  input[type="password"],#game_register  input[type="email"]{width:235px;border:1px solid #0F5396}
+#game_register .selector{border:1px solid #0F5396;width:224px !important;background:url("images/ddl_arrow.png") no-repeat scroll 215px 10px rgba(0, 0, 0, 0)}
+#game_register .form-group{margin-bottom:10px;font-size:12px;}
+#game_register input[type="checkbox"]{margin-left:120px;font-size:12px;margin-right:10px; }
